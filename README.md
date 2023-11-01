@@ -16,4 +16,4 @@ For example, if Grade A is chosen, it means approving a total of 10,817 applican
 
 ![image](https://github.com/Thanapon23/Credit-scoring-analysis/assets/128878040/011c2853-3a27-4ceb-a2e7-e94e96b09e5d)
 
-The results of the analysis can be discussed with relevant business stakeholders, and it represents a form of data-driven decision-making. This will help the business make precise decisions and have data that can be referenced.
+<big>The results of the analysis can be discussed with relevant business stakeholders, and it represents a form of data-driven decision-making. This will help the business make precise decisions and have data that can be referenced.</big>.
