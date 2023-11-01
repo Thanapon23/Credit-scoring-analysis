@@ -1,7 +1,7 @@
 # Credit-scoring-analysis
 
 
-*** Credit-scoring analysis *** involves analyzing data based on various variables to differentiate the grades of the data. It is used to analyze risk in approving various financial transactions. In this project, it will involve creating a model to deeply analyze financial data to consider loan approvals.
+ Credit-scoring analysis is involves analyzing data based on various variables to differentiate the grades of the data. It is used to analyze risk in approving various financial transactions. In this project, it will involve creating a model to deeply analyze financial data to consider loan approvals.
 
 ![image](https://github.com/Thanapon23/Credit-scoring-analysis/assets/128878040/c0a3782e-9c51-497d-97a3-762cabc61c90)
 
